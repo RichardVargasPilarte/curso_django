@@ -14,20 +14,20 @@
       <Owner>postgres</Owner>
       <IntrospectionStateNumber>763</IntrospectionStateNumber>
       <Current>1</Current>
-      <Relations>sequence|table|17142|17144|1
-sequence|table|17153|17155|1
-sequence|table|17163|17165|1
-sequence|table|17171|17173|1
+      <Relations>sequence|table|17320|17322|1
+sequence|table|17328|17330|1
+sequence|table|17338|17340|1
 sequence|table|17181|17183|1
 sequence|table|17189|17191|1
 sequence|table|17199|17201|1
 sequence|table|17207|17209|1
-sequence|table|17267|17269|1
 sequence|table|17310|17312|1
-sequence|table|17320|17322|1
 sequence|table|17300|17302|1
-sequence|table|17328|17330|1
-sequence|table|17338|17340|1
+sequence|table|17267|17269|1
+sequence|table|17142|17144|1
+sequence|table|17153|17155|1
+sequence|table|17163|17165|1
+sequence|table|17171|17173|1
 </Relations>
     </database>
     <database id="4" parent="1" name="postgres">
